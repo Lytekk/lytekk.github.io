@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Thesis Log #2"
+subtitle:   "Time to Trim"
+date:       2016-03-05 9:00:00
+author:     "Lytekk"
+header-img: "img/post-bg-01.jpg"
+---
+<p>
+<br/>
+<b><i>9:00am - 12:30pm</i></b>
+<br/>
+- placeholder -
+</p>
+
